@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Spotify](https://novatorem-sage-delta.vercel.app/api/spotify)](https://open.spotify.com/user/zmpao1fxmhijwmsnuhanwqzr2)
