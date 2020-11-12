@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptpad Uberspace Guide](https://resch.pw/cryptpad-uberspace-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Currently listening to
