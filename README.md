@@ -1,10 +1,3 @@
-### Hi there 👋
-
-### Currently listening to
-
-[![Spotify](https://novatorem-sage-delta.vercel.app/api/spotify)](https://open.spotify.com/user/zmpao1fxmhijwmsnuhanwqzr2)
-
-
 <h1 align="center">Hi 👋, I'm Niklas</h1>
 <h3 align="center">A DevOps- and Softare-Engineer from Germany</h3>
 
@@ -17,6 +10,10 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### Currently listening to
+
+[![Spotify](https://novatorem-sage-delta.vercel.app/api/spotify)](https://open.spotify.com/user/zmpao1fxmhijwmsnuhanwqzr2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
