@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thatshumbug" target="blank"><img src="https://img.shields.io/twitter/follow/thatshumbug?logo=twitter&style=for-the-badge" alt="thatshumbug" /></a> </p>
 
-- 📝 I regulary write articles on [https://resch.pw](https://resch.pw)
+- 📝 I write articles on [https://resch.pw](https://resch.pw)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
