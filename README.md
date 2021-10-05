@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatshumbug&label=Profile%20views&color=0e75b6&style=flat" alt="thatshumbug" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thatshumbug" target="blank"><img src="https://img.shields.io/twitter/follow/thatshumbug?logo=twitter&style=for-the-badge" alt="thatshumbug" /></a> </p>
+<p align="left"> <a href="https://twitter.com/niklasfyi" target="blank"><img src="https://img.shields.io/twitter/follow/niklasfyi?logo=twitter&style=for-the-badge" alt="niklasfyi" /></a> </p>
 
 - 📝 I write articles on [https://resch.pw](https://resch.pw)
 
