@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatshumbug&label=Profile%20views&color=0e75b6&style=flat" alt="thatshumbug" /> </p>
 
-<p align="left"> <a href="https://twitter.com/niklasfyi" target="blank"><img src="https://img.shields.io/twitter/follow/niklasfyi?logo=twitter&style=for-the-badge" alt="niklasfyi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thatshumbug" target="blank"><img src="https://img.shields.io/twitter/follow/thatshumbug?logo=twitter&style=for-the-badge" alt="thatshumbug" /></a> </p>
 
 - 📝 I write articles on [https://resch.pw](https://resch.pw)
 
@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/humbug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="humbug" height="30" width="40" /></a>
-<a href="https://twitter.com/niklasfyi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="niklasfyi" height="30" width="40" /></a>
+<a href="https://twitter.com/thatshumbug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thatshumbug" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/🐧-niklas-resch-70448455" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="🐧-niklas-resch-70448455" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3114451" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="3114451" height="30" width="40" /></a>
 <a href="/https://resch.pw/rss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://resch.pw/rss/" height="30" width="40" /></a>
