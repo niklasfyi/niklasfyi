@@ -1,20 +1,9 @@
 <h1 align="center">Hi 👋, I'm Niklas</h1>
-<h3 align="center">A DevOps- and Softare-Engineer from Germany</h3>
+<h3 align="center">A DevOps- and Softare-Engineer from Germany living in Trondheim, Norway</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niklasfyi&label=Profile%20views&color=0e75b6&style=flat" alt="niklasfyi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/niklasfyi" target="blank"><img src="https://img.shields.io/twitter/follow/niklasfyi?logo=twitter&style=for-the-badge" alt="niklasfyi" /></a> </p>
-
-- 📝 I write articles on [https://resch.pw](https://resch.pw)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Cryptpad Uberspace Guide](https://resch.pw/cryptpad-uberspace-guide/)
-<!-- BLOG-POST-LIST:END -->
-
-### Currently listening to
-
-[![Spotify](https://novatorem-sage-delta.vercel.app/api/spotify)](https://open.spotify.com/user/zmpao1fxmhijwmsnuhanwqzr2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
